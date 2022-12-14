@@ -1999,6 +1999,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 784751432}
+  - component: {fileID: 784751433}
   m_Layer: 0
   m_Name: Fruits
   m_TagString: Untagged
@@ -2029,6 +2030,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &784751433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 784751431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b56e686228d66d40a071a0cccb2d718, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &797440698
 GameObject:
   m_ObjectHideFlags: 0
@@ -7848,7 +7861,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2062626944}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f28cb890c9a671d4c8ba3780a9ea7979, type: 3}
+  m_Script: {fileID: 11500000, guid: 470a4dc61047d4b4cb801d451e1cc503, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!95 &2062626949
